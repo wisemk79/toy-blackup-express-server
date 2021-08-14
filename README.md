@@ -10,6 +10,10 @@
 - React
 - Node Express
 
+### 로그인 인증 방식
+
+- JWT
+
 ### DB
 
 - 설계: 진수현
